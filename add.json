@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Sachin",
+        "lastName": "Pimpalshende",
+        "address": "Talodhi",
+        "city": "Chandrapur",
+        "state": "Maharastra",
+        "zip": "962377",
+        "phoneNumber": "91 9420553588",
+        "email": "sachin12@gmail.com"
+    },
+    {
+        "firstName": "Vishal",
+        "lastName": "Palode",
+        "address": "shanivar peth",
+        "city": "pune",
+        "state": "maharashtra",
+        "zip": "411030",
+        "phoneNumber": "91 9168031413",
+        "email": "vishalpalode9899@gmail.com"
+    },
+    {
+        "firstName": "Sanket",
+        "lastName": "Pawar",
+        "address": "deccan",
+        "city": "pune",
+        "state": "maharashtra",
+        "zip": "411005",
+        "phoneNumber": "91 9561101234",
+        "email": "sanketpawar@gmail.com"
+    },
+    {
+        "firstName": "Pawan",
+        "lastName": "Gupta",
+        "address": "bardoli",
+        "city": "surat",
+        "state": "gujarat",
+        "zip": "395003",
+        "phoneNumber": "91 9876543210",
+        "email": "pawangupta@gmail.com"
+    },
+    {
+        "firstName": "Ronit",
+        "lastName": "Waje",
+        "address": "Nerul",
+        "city": "mumbai",
+        "state": "maharashtra",
+        "zip": "400706",
+        "phoneNumber": "91 9812345670",
+        "email": "ronitwaje@gmail.com"
+    },
+    {
+        "firstName": "Ayush",
+        "lastName": "Unde",
+        "address": "chinchwad",
+        "city": "pune",
+        "state": "maharashtra",
+        "zip": "411019",
+        "phoneNumber": "91 8381999900",
+        "email": "undeayush@gmail.com"
+    }
+]
